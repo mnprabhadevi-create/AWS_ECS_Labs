@@ -1,2 +1,2 @@
 # AWS_ECS_Labs
-A lab session on Deploying Images to Amazon ECS via ECR
+A lab session on Deploying Images to Amazon ECS via ECR. Download data
